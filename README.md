@@ -16,9 +16,10 @@ This game is created with Object-Oriented principles. Similar to the original Sn
 
 ## Installation:
 1. Download the python file 
-2. Make sure you have the latest Python version on your computer 
-3. Make sure you have the libraries installed onto your computer (you can do this by ~pip install name_of_library)
-5. Run the code 
+2. Run `python --version` to check the version of your Python
+3. Download the latest python version at https://www.python.org/downloads/
+4. Install tkinter with `pip install tkinter`
+5. Run the Snake.py in an IDE
 6. There should be a Pygame window pop-up that shows a snake game 
 7. Play and enjoy the game
 
