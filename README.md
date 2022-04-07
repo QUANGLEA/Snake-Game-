@@ -8,7 +8,7 @@ Libraries imported:
 3. pygame
 4. tkinter
 
-Summary: This is a recreation of the popular Snake Game using Python 
+###Summary: This is a recreation of the popular Snake Game using Python 
 
 Description: This game is created with Object-Oriented principles. Similar to the original Snake Game, the objective is to get the highest score as possible by eating as much snack as possible. One difference is that in my version of Snake, it is possible for the Snake to go off-screen which would only relocate the Snake to the opposite side of the screen. The only way you lose is if the Snake bites itself.
 
