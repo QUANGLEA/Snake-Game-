@@ -11,6 +11,8 @@ This project is written with Python 3.9.6
 ## Summary: 
 This is a recreation of the popular Snake Game using Python 
 
+![snake-gameplay](https://user-images.githubusercontent.com/85794656/162503525-be090048-c92c-46c7-960c-1f2bd0d94043.gif)
+
 ## Description: 
 This game is created with Object-Oriented principles. Similar to the original Snake Game, the objective is to get the highest score as possible by eating as much snack as possible. One difference is that in my version of Snake, it is possible for the Snake to go off-screen which would only relocate the Snake to the opposite side of the screen. The only way you lose is if the Snake bites itself.
 
